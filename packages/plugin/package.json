@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-excalidraw-as-json",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "A vite plugin load .excalidraw files as json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,8 +24,8 @@
   },
   "keywords": [
     "vite",
-    "inline",
-    "module"
+    "excalidraw",
+    "json"
   ],
   "author": "soultice@gmail.com",
   "license": "MIT",
